@@ -1,4 +1,5 @@
-<strong># tribute-page
+<strong>Tribute Page
+ <br>
 [ HTML / CSS / JavaScript ]</strong>  
 <br>
 [:us:] Page content - in ENGLISH.  
