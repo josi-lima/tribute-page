@@ -29,6 +29,7 @@ const callback = function(entries) {
     observer.observe(target);
   });
 
+
 // Button Scroll-to-Top
 
 const btnScrollToTop = document.querySelector("#btnScrollToTop");
