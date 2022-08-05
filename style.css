@@ -404,6 +404,7 @@ li::marker {
 
  .container4 {
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-evenly;
     margin-top: 4vmax;
     margin-bottom: 8vmax;       
