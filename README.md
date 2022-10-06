@@ -1,4 +1,4 @@
-# Tribute Page
+# Tribute Page 👑
 
 ⚡<strong>[ HTML / CSS / JavaScript ]</strong> https://josi-lima.github.io/tribute-page/
 <br><br>
