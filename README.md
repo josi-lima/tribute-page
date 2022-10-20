@@ -1,6 +1,6 @@
 # Tribute Page 👑
 
-⚡<strong>[ HTML / CSS / JavaScript ]</strong> https://josi-lima.github.io/tribute-page/
+⚡<strong>[ CSS / HTML / JavaScript ]</strong> https://josi-lima.github.io/tribute-page/
 <br><br>
 [:us:] Page content - in ENGLISH.  
 <br>
